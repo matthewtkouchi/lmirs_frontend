@@ -1,0 +1,71 @@
+[
+    {
+        "angle": 20,
+        "arrayDimension": 8,
+        "configuration": [0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1]
+    },
+    {
+        "timestamp": 0,
+        "angle": 0,
+        "arrayDimension": 4,
+        "bitness": 1,
+        "configuration": {
+            "0": {
+                "state": 0,
+                "negVoltage": -10,
+                "posVoltage": 10,
+                "dutyCycle": 50,
+                "frequency": 50
+            },
+            "1": {
+                "state": 0,
+                "negVoltage": -10,
+                "posVoltage": 10,
+                "dutyCycle": 50,
+                "frequency": 50
+            },
+            "2": {
+                "state": 0,
+                "negVoltage": -10,
+                "posVoltage": 10,
+                "dutyCycle": 50,
+                "frequency": 50
+            },
+            "3": {
+                "state": 0,
+                "negVoltage": -10,
+                "posVoltage": 10,
+                "dutyCycle": 50,
+                "frequency": 50
+            },
+            "4": {
+                "state": 0,
+                "negVoltage": -10,
+                "posVoltage": 10,
+                "dutyCycle": 50,
+                "frequency": 50
+            },
+            "5": {
+                "state": 0,
+                "negVoltage": -10,
+                "posVoltage": 10,
+                "dutyCycle": 50,
+                "frequency": 50
+            },
+            "6": {
+                "state": 0,
+                "negVoltage": -10,
+                "posVoltage": 10,
+                "dutyCycle": 50,
+                "frequency": 50
+            },
+            "7": {
+                "state": 0,
+                "negVoltage": -10,
+                "posVoltage": 10,
+                "dutyCycle": 50,
+                "frequency": 50
+            }
+        }
+    }
+]

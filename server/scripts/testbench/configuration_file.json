@@ -1,0 +1,117 @@
+{
+    "arrayDimension": "4",
+    "bitness": "1",
+    "frequency": "50",
+    "columns": {
+        "col_0": {
+            "state": "0"
+        },
+        "col_1": {
+            "state": "0"
+        },
+        "col_2": {
+            "state": "0"
+        },
+        "col_3": {
+            "state": "0"
+        }
+    },
+    "configuration": {
+        "cell_0": {
+            "state": "1",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        },
+        "cell_1": {
+            "state": "0",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        },
+        "cell_2": {
+            "state": "0",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        },
+        "cell_3": {
+            "state": "0",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        },
+        "cell_4": {
+            "state": "0",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        },
+        "cell_5": {
+            "state": "1",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        },
+        "cell_6": {
+            "state": "0",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        },
+        "cell_7": {
+            "state": "0",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        },
+        "cell_8": {
+            "state": "0",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        },
+        "cell_9": {
+            "state": "0",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        },
+        "cell_10": {
+            "state": "1",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        },
+        "cell_11": {
+            "state": "0",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        },
+        "cell_12": {
+            "state": "0",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        },
+        "cell_13": {
+            "state": "0",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        },
+        "cell_14": {
+            "state": "0",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        },
+        "cell_15": {
+            "state": "0",
+            "negVoltage": "-10",
+            "posVoltage": "10",
+            "dutyCycle": "50"
+        }
+    }
+}
